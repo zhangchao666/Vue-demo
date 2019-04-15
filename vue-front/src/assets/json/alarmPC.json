@@ -1,0 +1,188 @@
+﻿{
+	"pcs": [
+		{
+			"id": "E1_LOS",
+			"desc": "E1接口信号丢失"
+		},
+		{
+			"id": "E1_LOF",
+			"desc": "帧丢失告警"
+		},
+		{
+			"id": "E1_AIS",
+			"desc": "E1接口告警指示"
+		},
+		{
+			"id": "E1_CRC_EXC",
+			"desc": "E1接口CRC误码过量"
+		},
+		{
+			"id": "ETH_LOS",
+			"desc": "以太网信号丢失"
+		},
+		{
+			"id": "ETH_LINK_DOWN",
+			"desc": "网口连接故障告警"
+		},
+		{
+			"id": "ETH_FCS_EXC",
+			"desc": "MAC层检测到误码越限"
+		},
+		{
+			"id": "MPLS_SECT_LOC",
+			"desc": "段层连续性丢失"
+		},
+		{
+			"id": "MPLS_SECT_UNM EG",
+			"desc": "段层未期望的MEG"
+		},
+		{
+			"id": "MPLS_SECT_UNM EP",
+			"desc": "段层未期望的MEP"
+		},
+		{
+			"id": "MPLS_SECT_UNP ER",
+			"desc": "段层未期望的CCM包"
+		},
+		{
+			"id": "MPLS_SECT_RDI",
+			"desc": "段层远端缺陷指示"
+		},
+		{
+			"id": "MPLS_SECT_SD",
+			"desc": "段层近端信号劣化"
+		},
+		{
+			"id": "MPLS_SECT_LCK",
+			"desc": "段层锁定"
+		},
+		{
+			"id": "MPLS_PW_LOC",
+			"desc": "PW连续性丢失"
+		},
+		{
+			"id": "MPLS_ PW_UNMEG",
+			"desc": "PW未期望的MEG"
+		},
+		{
+			"id": "MPLS_ MPLS_PW_UNMEP",
+			"desc": "PW未期望的MEP"
+		},
+		{
+			"id": "MPLS_ MPLS_PW_UNPER",
+			"desc": "PW未期望的CCM包周期"
+		},
+		{
+			"id": "MPLS_PW_RDI",
+			"desc": "PW远端缺陷指示"
+		},
+		{
+			"id": "MPLS_PW_AIS",
+			"desc": "PW告警指示信号"
+		},
+		{
+			"id": "MPLS_PW_SD",
+			"desc": "PW近端信号劣化"
+		},
+		{
+			"id": "MPLS_PW_LCK",
+			"desc": "PW锁定"
+		},
+		{
+			"id": "MPLS_ MPLS_PW_RDI",
+			"desc": "PW远端缺陷指示"
+		},
+		{
+			"id": "MPLS_ MPLS_PW_AIS",
+			"desc": "PW告警指示信号"
+		},
+		{
+			"id": "MPLS_ MPLS_PW_SD",
+			"desc": "PW近端信号劣化"
+		},
+		{
+			"id": "MPLS_ MPLS_PW_LCK",
+			"desc": "PW锁定"
+		},
+		{
+			"id": "MPLS_ MPLS_PW_CSF",
+			"desc": "PW客户侧信号失效"
+		},
+		{
+			"id": "MPLS_ LASER_MOD_MIS S",
+			"desc": "光模块不在位"
+		},
+		{
+			"id": "LASER_MOD_FAU LT",
+			"desc": "光模块故障"
+		},
+		{
+			"id": "LASER_MOD _MISMATCH",
+			"desc": "光模块类型不匹配"
+		},
+		{
+			"id": "RX_PWR_EXC_H",
+			"desc": "收光功率过高"
+		},
+		{
+			"id": "RX_PWR_EXC_L",
+			"desc": "收光功率过低"
+		},
+		{
+			"id": "TX_PWR_EXC_H",
+			"desc": "输出光功率(dBm)过高"
+		},
+		{
+			"id": "TX_PWR_EXC_L",
+			"desc": "输出光功率(dBm)过低"
+		},
+		{
+			"id": "LASER_BSM_EXC",
+			"desc": "激光器偏流(mA)越限"
+		},
+		{
+			"id": "LASER_TEMP_EX C",
+			"desc": "激光器温度(℃)越限"
+		},
+		{
+			"id": "LTI",
+			"desc": "系统定时信息丢失"
+		},
+		{
+			"id": "TEMP_EXC_H",
+			"desc": "温度高门限越限"
+		},
+		{
+			"id": "TEMP_EXC_L",
+			"desc": "温度低门限越限"
+		},
+		{
+			"id": "CARD_OFFLINE",
+			"desc": "单板离线"
+		},
+		{
+			"id": "CARD_FAILURE",
+			"desc": "物理板卡故障"
+		},
+		{
+			"id": "CARD_UNKNOW",
+			"desc": "板卡不可识别"
+		},
+		{
+			"id": "MEM_OVER",
+			"desc": "内存使用率过高"
+		},
+		{
+			"id": "CPU_BUSY",
+			"desc": "CPU繁忙"
+		},
+		{
+			"id": "PWR_FAULT",
+			"desc": "电源失效告警"
+		},
+		{
+			"id": "FAN_FAULT",
+			"desc": "风扇故障"
+		}
+	]
+}

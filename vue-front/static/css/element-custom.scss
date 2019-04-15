@@ -1,0 +1,5 @@
+/* 改变 icon 字体路径变量，必需 */
+$--border-base: 1px solid #dcdfe6;
+
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import '~element-ui/packages/theme-chalk/src/index';

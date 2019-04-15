@@ -1,0 +1,130 @@
+﻿{
+	"G.8113.1_MEG": {
+		"nameFormat": "0",
+		"resource-id": "Some resource-id",
+		"index": "0",
+		"managedInstanceType": "section",
+		"name": "Some name",
+		"mipCreation": "automatic",
+		"Remote_MEP": [
+			{
+				"mepId": "0",
+				"openFlowMpId": "0",
+				"rMepId": "Some rMepId"
+			},
+			{
+				"mepId": "0",
+				"openFlowMpId": "0",
+				"rMepId": "Some rMepId"
+			}
+		],
+		"Remote_MIP": [
+			{
+				"openFlowMpId": "0",
+				"mipId": "Some mipId"
+			}
+		],
+		"Local_MEP": {
+			"mepId": "0",
+			"serveropenFlowMpId": "0",
+			"enable": "false",
+			"openFlowMpId": "0",
+			"direction": "down",
+			"AIS": {
+				"phb": "CS7",
+				"enable": "false",
+				"period": "1 SEC"
+			},
+			"CCM": {
+				"phb": "CS7",
+				"enable": "true",
+				"period": "3.33MS"
+			},
+
+			"LB": [
+				{
+					"ttl": "10",
+					"phb": "CS7",
+					"destinationType": "MEP",
+					"enable": "false",
+					"nbrOfPkt": "1",
+					"pktLength": "64",
+					"discovery": "none",
+					"period": "0",
+					"destination": "Some destination",
+					"testTlvType": "Null signal - all zero without CRC-32",
+					"instance": "0",
+					"mipICC": "Some mipICC",
+					"testTlvPresent": "false"
+				}
+			],
+			"Proactive_DM": {
+				"destination": "Some destination",
+				"phb": "CS7",
+				"destinationType": "MEP",
+				"frameLen": "64",
+				"enable": "false",
+				"period": "1 SEC"
+			},
+			"OnDemand_DM": {
+				"destination": "Some destination",
+				"phb": "CS7",
+				"destinationType": "MEP",
+				"frameLen": "64",
+				"enable": "false",
+				"period": "1 SEC"
+			},
+			"Proactive_LM": {
+				"destination": "Some destination",
+				"phb": "CS7",
+				"toolTypes": "CCM",
+				"destinationType": "MEP",
+				"enable": "false",
+				"period": "3.33MS"
+			},
+			"OnDemand_LM": {
+				"destination": "Some destination",
+				"phb": "CS7",
+				"toolTypes": "LM",
+				"destinationType": "MEP",
+				"enable": "false",
+				"role": "both",
+				"period": "3.33MS"
+			},
+
+			"CSF": {
+				"phb": "CS7",
+				"enable": "false",
+				"period": "1 SEC"
+			},
+			"LCK": {
+				"phb": "CS7",
+				"enable": "false",
+				"period": "1 SEC"
+			},
+			"TST": [
+				{
+					"destination": "Some destination",
+					"type": "in-service",
+					"duration": "60",
+					"testTlvType": "Null signal - all zero without CRC-32",
+					"phb": "CS7",
+					"enable": "false",
+					"pktLength": "64",
+					"instance": "0",
+					"role": "initiator",
+					"interval": "1000000"
+				}
+			]
+		},
+		"Local_MIP": [
+			{
+				"openFlowMpId": "0",
+				"mipId": "Some mipId",
+				"mipType": "Some mipId",
+				"nodeId": "Some mipId",
+				"ifNum": "Some mipId"
+			}
+		]
+	}
+}

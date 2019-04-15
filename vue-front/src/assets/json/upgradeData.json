@@ -1,0 +1,392 @@
+    {   
+        "tableData":[
+            {
+                "task":"Task1",
+                "uptarget": "",
+                "status": "",
+                "operate": "",
+                "version": "",
+                "fgpa": "",
+                "progress": "未开始",
+                "startTime": "",
+                "endTime": "",
+                "createTime":"",
+                "user":"",
+                "data":[
+                    {
+                        "task":"",
+                        "uptarget": "NE1",
+                        "status": "",
+                        "operate": "",
+                        "version": "",
+                        "number":null,
+                        "fgpa": "",
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S1\\MXGF12",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":2,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S9\\NFHGF02",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S10\\NFHGF02",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S5\\OPCS",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":7,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S6\\OPCS",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },
+                    {
+                        "task":"",
+                        "uptarget": "NE2",
+                        "status": "",
+                        "operate": "",
+                        "version": "",
+                        "fgpa": "",
+                        "fgpanum": null,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S1\\MXGF12",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":2,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S9\\NFHGF02",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S10\\NFHGF02",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S5\\OPCS",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":7,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S6\\OPCS",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "NE3",
+                        "status": "",
+                        "operate": "",
+                        "version": "",
+                        "number":null,
+                        "fgpa": "",
+                        "fgpanum": null,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S1\\MXGF12",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":2,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S9\\NFHGF02",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S10\\NFHGF02",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S5\\OPCS",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":7,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    },{
+                        "task":"",
+                        "uptarget": "S6\\OPCS",
+                        "status": "Idle",
+                        "operate": "正常",
+                        "version": "1.1.0.",
+                        "number":33,
+                        "fgpa": "0.0.0.",
+                        "fgpanum":21,
+                        "progress": "",
+                        "startTime": "",
+                        "endTime": "",
+                        "createTime":"",
+                        "user":""
+                    }
+                ]
+            }
+        ],
+        "formatedNeList":[
+			{"key": "1", "label": "NE1"},
+			{"key": "2", "label": "NE2"},
+			{"key": "3", "label": "NE3"},
+			{"key": "4", "label": "NE4"},
+			{"key": "5", "label": "NE5"},
+			{"key": "6", "label": "NE6"},
+			{"key": "7", "label": "NE7"},
+			{"key": "8", "label": "NE8"},
+			{"key": "9", "label": "NE9"},
+			{"key": "10", "label": "NE10"}
+        ],
+        "logData":[
+			{
+				"id":1,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE1",
+                "content":"当前版本1.1.0.33, 运行正常； 升级版本1.1.0.34的Image文件已Ready",
+                "status":""
+			},
+			{
+				"id":2,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE2",
+                "content":"当前版本1.1.0.33, 运行正常； 升级版本1.1.0.34的Image文件已Ready",
+                "status":""
+			},{
+				"id":3,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE3",
+                "content":"当前版本1.1.0.33, 运行正常； 升级版本1.1.0.34的Image文件已Ready",
+                "status":"check"
+			},{
+				"id":4,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE1",
+                "content":"配置备份完成，备份至~/backup",
+                "status":""
+			},{
+				"id":5,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE2",
+                "content":"配置备份完成，备份至~/backup",
+                "status":""
+			},{
+				"id":6,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE3",
+                "content":"配置备份完成，备份至~/backup",
+                "status":"backup"
+			},{
+				"id":7,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE1",
+                "content":"软件加载完成",
+                "status":""
+			},{
+				"id":8,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE2",
+                "content":"软件加载完成",
+                "status":""
+			},{
+				"id":9,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE3",
+                "content":"软件加载完成",
+                "status":"loading"
+			},{
+				"id":10,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE1",
+                "content":"软件激活完成",
+                "status":""
+			},{
+				"id":11,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE2",
+                "content":"软件激活完成",
+                "status":""
+			},{
+				"id":12,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE3",
+                "content":"软件激活失败",
+                "status":"activate"
+			},{
+				"id":13,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE1",
+                "content":"软件升级后检查完成，升级成功",
+                "status":""
+			},{
+				"id":14,
+				"happenTime":"2019-03-26 09:53",
+				"message":"通知",
+				"target":"NE2",
+                "content":"软件升级后检查完成，升级成功",
+                "status":""
+			},{
+				"id":15,
+				"happenTime":"2019-03-26 09:53",
+				"message":"告警",
+				"target":"NE3",
+                "content":"软件激活失败，系统回退到升级前版本",
+                "status":"finish"
+			}
+		]
+    }
